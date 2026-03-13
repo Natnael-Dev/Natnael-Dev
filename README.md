@@ -12,8 +12,7 @@
 
 <!-- PROFILE VIEWS + FOLLOWERS BADGES -->
 <img src="https://komarev.com/ghpvc/?username=Natnael-Dev&label=Profile+Views&color=0e75b6&style=for-the-badge&base=72" alt="profile views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Natnael-Dev?label=Followers&style=for-the-badge&color=203a43" />
+
 
 </div>
 
@@ -115,16 +114,34 @@ Motto    : "The universe does not owe you clarity, but your code does."
 
 ---
 
-<!-- SPACE BANNER SECTION -->
-## 🌌 From Addis Ababa to Infinity
-
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" style="border-radius:12px;" alt="Space Galaxy Animation" />
-</div>
+<!-- BEAUTIFUL VISUAL SECTION -->
+## ✨ The Philosophy
 
 <div align="center">
 
-> *"We are all made of star stuff. Some of us just write code about it."* 🌠
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,50:203a43,100:2c5364&height=140&text=Code.%20Learn.%20Repeat.&fontSize=42&fontColor=4FC3F7&animation=twinkling&fontAlignY=55&desc=Building%20tomorrow%20from%20Addis%20Ababa%20%F0%9F%87%AA%F0%9F%87%B9&descSize=16&descAlignY=78&descFontColor=aaaaaa" width="90%" />
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="55" alt="github" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55" alt="coding" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="55" alt="github" />
+
+<br/><br/>
+
+![](https://img.shields.io/badge/🇪🇹%20Ethiopia-Based-203a43?style=flat-square)
+&nbsp;
+![](https://img.shields.io/badge/Open%20to%20Collaborate-4FC3F7?style=flat-square&logo=handshake&logoColor=white)
+&nbsp;
+![](https://img.shields.io/badge/Space%20Enthusiast-0f2027?style=flat-square&logo=nasa&logoColor=4FC3F7)
+&nbsp;
+![](https://img.shields.io/badge/Always%20Learning-2c5364?style=flat-square&logo=bookstack&logoColor=white)
+
+<br/>
+
+> *"The best error message is the one that never shows up."*
 
 </div>
 
