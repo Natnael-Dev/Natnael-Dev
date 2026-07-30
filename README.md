@@ -57,34 +57,57 @@ const NatnaelDev = {
 
 <div align="center">
 <table width="100%">
-<tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/Natnael-Dev/omnifill-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Natnael-Dev&repo=omnifill-ai&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=60A5FA&icon_color=60A5FA&text_color=c9d1d9" width="100%" alt="OmniFill AI"/>
-  </a>
-  <p align="center"><b>🤖 OmniFill AI</b><br><i>Autonomous 100X Form Engine trained on personal profiles. Automatically fills applications & web forms with AI answers.</i></p>
-</td>
-<td width="50%" valign="top">
-  <a href="https://github.com/Natnael-Dev/github-phantom">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Natnael-Dev&repo=github-phantom&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=60A5FA&icon_color=60A5FA&text_color=c9d1d9" width="100%" alt="GitHub Phantom Engine"/>
-  </a>
-  <p align="center"><b>👻 GitHub Phantom Engine</b><br><i>Zero-RAM Autonomous Growth & Engagement Engine with Task Scheduler integration & organic delays.</i></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/Natnael-Dev/ghostleads-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Natnael-Dev&repo=omnifill-ai&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=60A5FA&icon_color=60A5FA&text_color=c9d1d9" width="100%" alt="GhostLeads AI"/>
-  </a>
-  <p align="center"><b>📡 GhostLeads AI</b><br><i>Autonomous multi-platform lead & client prospector sniffing high-intent buyer posts on Reddit, HN & Twitter.</i></p>
-</td>
-<td width="50%" valign="top">
-  <a href="https://github.com/Natnael-Dev/lovable-freezer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Natnael-Dev&repo=lovable-freezer&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=60A5FA&icon_color=60A5FA&text_color=c9d1d9" width="100%" alt="Lovable Freezer"/>
-  </a>
-  <p align="center"><b>🧊 Lovable Freezer</b><br><i>Local snapshot freezer & token usage optimizer for AI web sandboxes and code generation environments.</i></p>
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Natnael-Dev/omnifill-ai">🤖 OmniFill AI</a></h3>
+      <p><i>Autonomous 100X Smart Form Engine trained on personal profiles. Fills applications & web forms automatically.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Chrome_Extension-MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_2.0-8E75B2?style=flat-square&logo=google-gemini&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Natnael-Dev/NatyMD-web">🏥 NatyMD Web Platform</a></h3>
+      <p><i>Modern healthcare & medical workflow platform for patient management, clinical records, and medical tools.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Full_Stack-0075FF?style=flat-square&logo=react&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Natnael-Dev/Car-Rental-Management-System">🚗 Car Management System</a></h3>
+      <p><i>Comprehensive vehicle fleet, reservation scheduling, customer rental tracking, and payment ledger engine.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Management_System-0075FF?style=flat-square&logo=windows&logoColor=white" />
+        <img src="https://img.shields.io/badge/C++%20%2F%20SQL-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Fleet_Tracker-4338ca?style=flat-square&logo=speedtest&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Natnael-Dev/Bank-Management-System">🏦 Bank Management System</a></h3>
+      <p><i>Secure banking operations engine supporting account creation, transaction ledgers, deposits, and security.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Banking_Engine-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Security-0075FF?style=flat-square&logo=lock&logoColor=white" />
+        <img src="https://img.shields.io/badge/Ledger_System-339933?style=flat-square&logo=cashapp&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2" valign="top" align="center">
+      <h3><a href="https://github.com/Natnael-Dev/Chess-Game">♟️ Interactive Chess Game Engine</a></h3>
+      <p><i>Interactive chess game featuring move validation logic, game state tracking, UI rendering, and AI play modes.</i></p>
+      <p>
+        <img src="https://img.shields.io/badge/Chess_Engine-f59e0b?style=flat-square&logo=gamepad&logoColor=white" />
+        <img src="https://img.shields.io/badge/Game_Logic-0075FF?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI_Opponent-8E75B2?style=flat-square&logo=openai&logoColor=white" />
+      </p>
+    </td>
+  </tr>
 </table>
 </div>
 
