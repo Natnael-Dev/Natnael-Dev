@@ -62,27 +62,27 @@ const NatnaelDev = {
   <a href="https://github.com/Natnael-Dev/omnifill-ai">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Natnael-Dev&repo=omnifill-ai&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=60A5FA&icon_color=60A5FA&text_color=c9d1d9" width="100%" alt="OmniFill AI"/>
   </a>
-  <p align="center"><b>🤖 OmniFill AI</b><br><i>Autonomous 100X Form Engine trained on personal profiles.</i></p>
+  <p align="center"><b>🤖 OmniFill AI</b><br><i>Autonomous 100X Form Engine trained on personal profiles. Automatically fills applications & web forms with AI answers.</i></p>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/Natnael-Dev/github-phantom">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Natnael-Dev&repo=github-phantom&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=60A5FA&icon_color=60A5FA&text_color=c9d1d9" width="100%" alt="GitHub Phantom Engine"/>
   </a>
-  <p align="center"><b>👻 GitHub Phantom Engine</b><br><i>Zero-RAM Autonomous Growth & Engagement Engine.</i></p>
+  <p align="center"><b>👻 GitHub Phantom Engine</b><br><i>Zero-RAM Autonomous Growth & Engagement Engine with Task Scheduler integration & organic delays.</i></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+  <a href="https://github.com/Natnael-Dev/ghostleads-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Natnael-Dev&repo=omnifill-ai&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=60A5FA&icon_color=60A5FA&text_color=c9d1d9" width="100%" alt="GhostLeads AI"/>
+  </a>
+  <p align="center"><b>📡 GhostLeads AI</b><br><i>Autonomous multi-platform lead & client prospector sniffing high-intent buyer posts on Reddit, HN & Twitter.</i></p>
+</td>
+<td width="50%" valign="top">
   <a href="https://github.com/Natnael-Dev/lovable-freezer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Natnael-Dev&repo=lovable-freezer&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=60A5FA&icon_color=60A5FA&text_color=c9d1d9" width="100%" alt="Lovable Freezer"/>
   </a>
-  <p align="center"><b>🧊 Lovable Freezer</b><br><i>Local snapshot freezer & token usage optimizer for AI sandboxes.</i></p>
-</td>
-<td width="50%" valign="top">
-  <a href="https://github.com/Natnael-Dev/Natnael-Dev">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Natnael-Dev&repo=Natnael-Dev&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=60A5FA&icon_color=60A5FA&text_color=c9d1d9" width="100%" alt="Cosmic Honeypot Profile"/>
-  </a>
-  <p align="center"><b>🪐 Cosmic Honeypot Profile</b><br><i>High-converting reciprocal profile showcase.</i></p>
+  <p align="center"><b>🧊 Lovable Freezer</b><br><i>Local snapshot freezer & token usage optimizer for AI web sandboxes and code generation environments.</i></p>
 </td>
 </tr>
 </table>
