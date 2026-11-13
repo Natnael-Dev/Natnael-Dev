@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="172" viewBox="0 0 1000 172" role="img" aria-labelledby="title desc">
+  <title id="title">Natnael Tezazu</title>
+  <desc id="desc">From strange ideas to working systems.</desc>
+  <path d="M2 18h36" stroke="#8d5928" stroke-width="3"/>
+  <text x="0" y="109" font-family="Georgia, 'Times New Roman', serif" font-size="94" letter-spacing="-4" fill="#262b30">Natnael Tezazu.</text>
+  <text x="3" y="156" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-style="italic" fill="#5f5a52">From strange ideas to working systems.</text>
+  <path d="M908 52h68v68h-68z" stroke="#8d5928" stroke-opacity=".5" fill="none"/>
+  <text x="917" y="101" font-family="Georgia, serif" font-size="37" fill="#8d5928">NT</text>
+</svg>
