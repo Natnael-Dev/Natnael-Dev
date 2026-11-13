@@ -27,11 +27,11 @@ I care about what happens **after the demo**: when connectivity disappears, data
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Natnael-Dev/NatyMD-web"><img src="assets/natymd.webp" width="100%" alt="NatyMD document compiler — portfolio preview"></a>
-      <h3><a href="https://github.com/Natnael-Dev/NatyMD-web">NatyMD</a></h3>
-      <p>Documents into clean Markdown, inside your browser. Local OCR, editable output, and token analytics.</p>
-      <p><sub>TypeScript · React · PDF.js · Tesseract</sub></p>
-      <p><a href="https://naty-md-web.vercel.app/">Try it live</a> · <a href="https://github.com/Natnael-Dev/NatyMD-web">Explore the code</a></p>
+      <a href="https://github.com/Natnael-Dev/teragrant-agent"><img src="assets/teragrant.webp" width="100%" alt="TeraGrant multimodal grant-intake system — portfolio preview"></a>
+      <h3><a href="https://github.com/Natnael-Dev/teragrant-agent">TeraGrant</a></h3>
+      <p>Voice and document evidence into grant applications. Preserves field provenance and contradictions, with deterministic eligibility and scoring rules.</p>
+      <p><sub>Python · FastAPI · Gemini · SQLite audit trail</sub></p>
+      <p><a href="https://github.com/Natnael-Dev/teragrant-agent">Explore the architecture &amp; code</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Natnael-Dev/AgentHelm"><img src="assets/agenthelm.webp" width="100%" alt="AgentHelm mission-control interface — portfolio preview"></a>
@@ -58,8 +58,6 @@ I care about what happens **after the demo**: when connectivity disappears, data
     </td>
   </tr>
 </table>
-
-**Also on the workbench:** [DailyRead](https://github.com/Natnael-Dev/dailyread), an offline-first Android reading-habit app for PDF and EPUB; [TeraGrant](https://github.com/Natnael-Dev/teragrant-agent), a grant-application assistant featured in my [portfolio](https://natnaeltezazu.pro.et/#systems).
 
 ### How I build
 

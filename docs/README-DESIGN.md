@@ -21,7 +21,7 @@ GitHub controls page typography and layout; this is a README, not a webpage.
 - DailyRead's public description identifies it as an offline-first Android
   reading-habit app for PDF and EPUB; no README was available at lookup time.
 - Contact details come from the portfolio, not the obsolete profile README.
-- NatyMD, AgentHelm, and SignalIntel images are portfolio previews copied
+- TeraGrant, AgentHelm, and SignalIntel images are portfolio previews copied
   from the portfolio source and compressed. They are not new screenshots.
 - CraftHub uses an editable architecture diagram based on its public README;
   the portfolio image did not clearly identify the project, so it was omitted.
