@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">CraftHub architecture</title>
+  <desc id="desc">A buyer's order is split between isolated vendor accounts and recorded in a financial ledger with an outbox for events.</desc>
+  <rect width="640" height="360" fill="#111619"/>
+  <g fill="none" stroke="#58625f" stroke-width="1.5">
+    <path d="M117 177h74m0 0v-61h49m-49 61v61h49m160-122h36v61h40m-76 61h36v-61"/>
+    <rect x="33" y="145" width="84" height="64" rx="4"/>
+    <rect x="240" y="84" width="160" height="64" rx="4"/>
+    <rect x="240" y="206" width="160" height="64" rx="4"/>
+    <rect x="476" y="145" width="130" height="64" rx="4"/>
+  </g>
+  <g font-family="monospace" text-anchor="middle" fill="#eee9df" font-size="17">
+    <text x="75" y="183">Order</text>
+    <text x="320" y="122">Vendor A</text>
+    <text x="320" y="244">Vendor B</text>
+    <text x="541" y="183">Ledger</text>
+  </g>
+  <g font-family="monospace" text-anchor="middle" fill="#d6ac69" font-size="13">
+    <text x="320" y="169">tenant isolation</text>
+    <text x="541" y="232">+ event outbox</text>
+  </g>
+  <path d="M32 35h32" stroke="#d6ac69" stroke-width="3"/>
+  <text x="32" y="323" fill="#a5afaa" font-family="monospace" font-size="14">CraftHub / commerce with clear boundaries</text>
+</svg>

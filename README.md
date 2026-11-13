@@ -1,143 +1,88 @@
-<div align="center">
-    <img width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZlZ2Z0OWdwa3RtcWZnbWlybzRhMWpyZW1xNXdzOXN4OWFpYmdyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfIPjeiVyM/giphy.gif" alt="Cosmic Planet Animation" />    
-    <br/>
-    <br/>
-    <a href="https://github.com/Natnael-Dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2000&pause=2000&color=60A5FA&center=true&width=750&height=60&lines=Greetings%2C+wanderer!+I'm+Natnael!;Full-Stack+%26+AI+Automation+Architect;Creator+of+OmniFill+AI+%26+GitHub+Phantom;" alt="Typing SVG" /></a>
-</div>
+<p align="left">
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/creation-of-adam.webp">
+    <img src="assets/creation-of-adam.gif" width="100%" alt="Two engraved hands reaching toward each other, with a small gap between their fingertips. The complete pose is visible from the first frame.">
+  </picture>
+</p>
 
-<div align="center">
-    <a href="https://github.com/Natnael-Dev?tab=followers"><img src="https://img.shields.io/badge/-Follow_Me-1e1b4b?style=for-the-badge&logo=github&logoColor=60A5FA" alt="GitHub Follow"/></a>
-    <a href="https://github.com/Natnael-Dev?tab=repositories"><img src="https://img.shields.io/badge/-Star_Repos-4338ca?style=for-the-badge&logo=star&logoColor=f59e0b" alt="Star Repos"/></a>
-    <a href="https://linkedin.com/in/natnael-dev"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:natnael.dev@example.com"><img src="https://img.shields.io/badge/-Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/masthead-dark.svg">
+  <img src="assets/masthead-light.svg" width="100%" alt="Natnael Tezazu. From strange ideas to working systems.">
+</picture>
 
-<br>
+**Full-stack & AI systems engineer · Addis Ababa, Ethiopia · UTC+3**
 
-<div align="center">
-    <a href="https://github.com/Natnael-Dev?tab=followers">
-        <img src="https://img.shields.io/badge/🤝_RECIPROCAL_ENGAGEMENT-INSTANT_FOLLOW_%26_AUTO_STAR_BACK-60A5FA?style=for-the-badge&labelColor=090D16" alt="Reciprocal Hook"/>
-    </a>
-</div>
+[Portfolio](https://natnaeltezazu.pro.et) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/natnael-tezazu) &nbsp; / &nbsp; [Email](mailto:natnaeltezazu01@gmail.com)
 
 ---
 
-## 👻 A little about me... 
+### A little about the builder
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Natnael-Dev&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Natnael-Dev)
+I’m Natnael, a software builder and technical co-founder based in Ethiopia. I turn difficult, unusual ideas into useful software—from enterprise operations and browser-based tools to AI runtimes and offline-first Android apps.
 
-I am a **Full-Stack & Autonomous AI Software Engineer** with a passion for high-leverage automation, browser extension architecture, and zero-RAM background engines. My goal is to build systems that automate tedious human workflows and scale developer growth seamlessly.
+I care about what happens **after the demo**: when connectivity disappears, data gets messy, or a model suggests something it shouldn’t be allowed to do. My approach is simple: keep the architecture understandable, make important decisions predictable, and build in a way that can be checked.
 
-Currently, I am engaged in developing open-source AI engines, custom Chrome extensions, and autonomous background automation tools.
+### Selected work
 
-```javascript
-const NatnaelDev = {
-    OS: ["Windows 11", "Linux"],
-    languages: {
-        highLevel: ["TypeScript", "JavaScript", "Python"],
-        averageLevel: ["C++", "SQL"],
-        baseLevel: ["HTML5", "CSS3", "Bash"]
-    },
-    programming: {
-        backend: ["Node.js", "Express", "REST APIs", "WebSocket"],
-        frontend: ["React", "Next.js", "Tailwind CSS", "Vite", "Vanilla CSS"],
-        databases: ["SQLite", "PostgreSQL", "MongoDB"],
-        ai_automation: ["Gemini 2.0 API", "OpenAI API", "Anthropic Claude", "Ollama"],
-        webScraping_automation: ["Puppeteer", "Chrome DevTools Protocol", "Axios", "Cheerio"],
-        browserExtensions: ["Chrome Extension MV3", "Content Scripts", "Service Workers"],
-        devOps_tools: ["Git", "Docker", "Windows Task Scheduler", "Vercel"]
-    },
-    interests: ["Autonomous Growth Engines", "AI Agentic Coding", "Micro-SaaS Fleet Generation"]
-};
-```
-
----
-
-## 🪐 Featured Systems & Repositories (Clickable)
-
-<div align="center">
-<table width="100%">
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Natnael-Dev/omnifill-ai">🤖 OmniFill AI</a></h3>
-      <p><i>Autonomous 100X Smart Form Engine trained on personal profiles. Fills applications & web forms automatically.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/Chrome_Extension-MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini_2.0-8E75B2?style=flat-square&logo=google-gemini&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      </p>
+      <a href="https://github.com/Natnael-Dev/NatyMD-web"><img src="assets/natymd.webp" width="100%" alt="NatyMD document compiler — portfolio preview"></a>
+      <h3><a href="https://github.com/Natnael-Dev/NatyMD-web">NatyMD</a></h3>
+      <p>Documents into clean Markdown, inside your browser. Local OCR, editable output, and token analytics.</p>
+      <p><sub>TypeScript · React · PDF.js · Tesseract</sub></p>
+      <p><a href="https://naty-md-web.vercel.app/">Try it live</a> · <a href="https://github.com/Natnael-Dev/NatyMD-web">Explore the code</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Natnael-Dev/NatyMD-web">🏥 NatyMD Web Platform</a></h3>
-      <p><i>Modern healthcare & medical workflow platform for patient management, clinical records, and medical tools.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Full_Stack-0075FF?style=flat-square&logo=react&logoColor=white" />
-      </p>
+      <a href="https://github.com/Natnael-Dev/AgentHelm"><img src="assets/agenthelm.webp" width="100%" alt="AgentHelm mission-control interface — portfolio preview"></a>
+      <h3><a href="https://github.com/Natnael-Dev/AgentHelm">AgentHelm</a></h3>
+      <p>Mission control for AI coding agents. Isolated workspaces, shell-policy checks, and execution telemetry.</p>
+      <p><sub>AI runtimes · Git worktrees · WebSockets</sub></p>
+      <p><a href="https://github.com/Natnael-Dev/AgentHelm">Explore the code</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Natnael-Dev/Car-Rental-Management-System">🚗 Car Management System</a></h3>
-      <p><i>Comprehensive vehicle fleet, reservation scheduling, customer rental tracking, and payment ledger engine.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/Management_System-0075FF?style=flat-square&logo=windows&logoColor=white" />
-        <img src="https://img.shields.io/badge/C++%20%2F%20SQL-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/Fleet_Tracker-4338ca?style=flat-square&logo=speedtest&logoColor=white" />
-      </p>
+      <a href="https://github.com/Natnael-Dev/SignalIntel"><img src="assets/signalintel.webp" width="100%" alt="SignalIntel broadcast-intelligence dashboard — portfolio preview"></a>
+      <h3><a href="https://github.com/Natnael-Dev/SignalIntel">SignalIntel</a></h3>
+      <p>Live broadcasts into searchable signals. Speech transcription, on-screen text, semantic search, and alerts.</p>
+      <p><sub>Python · Rust · Whisper · Qdrant</sub></p>
+      <p><a href="https://github.com/Natnael-Dev/SignalIntel">Explore the code</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Natnael-Dev/Bank-Management-System">🏦 Bank Management System</a></h3>
-      <p><i>Secure banking operations engine supporting account creation, transaction ledgers, deposits, and security.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/Banking_Engine-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Security-0075FF?style=flat-square&logo=lock&logoColor=white" />
-        <img src="https://img.shields.io/badge/Ledger_System-339933?style=flat-square&logo=cashapp&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" colspan="2" valign="top" align="center">
-      <h3><a href="https://github.com/Natnael-Dev/Chess-Game">♟️ Interactive Chess Game Engine</a></h3>
-      <p><i>Interactive chess game featuring move validation logic, game state tracking, UI rendering, and AI play modes.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/Chess_Engine-f59e0b?style=flat-square&logo=gamepad&logoColor=white" />
-        <img src="https://img.shields.io/badge/Game_Logic-0075FF?style=flat-square&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI_Opponent-8E75B2?style=flat-square&logo=openai&logoColor=white" />
-      </p>
+      <a href="https://github.com/Natnael-Dev/crafthub-marketplace"><img src="assets/crafthub.svg" width="100%" alt="CraftHub architecture: vendor isolation, financial ledger, and event outbox"></a>
+      <h3><a href="https://github.com/Natnael-Dev/crafthub-marketplace">CraftHub</a></h3>
+      <p>A multi-vendor marketplace built around tenant isolation, stock concurrency, financial ledgers, and reliable events.</p>
+      <p><sub>Next.js · TypeScript · PostgreSQL · Drizzle</sub></p>
+      <p><a href="https://github.com/Natnael-Dev/crafthub-marketplace">Explore the code</a></p>
     </td>
   </tr>
 </table>
-</div>
 
-> [!TIP]
-> Star any of the repositories above to receive an automatic reciprocal star back!
+**Also on the workbench:** [DailyRead](https://github.com/Natnael-Dev/dailyread), an offline-first Android reading-habit app for PDF and EPUB; [TeraGrant](https://github.com/Natnael-Dev/teragrant-agent), a grant-application assistant featured in my [portfolio](https://natnaeltezazu.pro.et/#systems).
+
+### How I build
+
+| The work | Tools & practices |
+| :--- | :--- |
+| **Interfaces people can use** | TypeScript, React, Next.js, Tailwind CSS |
+| **Systems with clear boundaries** | Python, Node.js, Rust, APIs, WebSockets |
+| **Data that stays consistent** | PostgreSQL, row-level security, SQLite, Redis |
+| **AI with engineering around it** | Speech models, OCR, vector search, deterministic checks |
+| **Software beyond a connection** | Kotlin, Compose, Flutter, local storage, synchronization |
+
+### Beyond the repositories
+
+I co-founded **Ethiosk**, a research-panel and survey project, and worked on the **Addis Mesob** enterprise operations platform. My portfolio brings together the architecture, case studies, and supporting evidence behind that work.
+
+[Read the story & view the evidence](https://natnaeltezazu.pro.et/#about)
 
 ---
 
-## 📊 Statistics & Activity Graph
+### Let’s build something useful.
 
-<details open>
-<summary><h3>📈 Profile Analytics</h3> <img height="22px" src="https://komarev.com/ghpvc/?username=Natnael-Dev&label=%F0%9F%AA%90%20Orbital%20Visitors&color=4338ca&style=flat-square" /></summary>
+Have a product, a difficult workflow, or an unusual idea in mind? [Send me a note](mailto:natnaeltezazu01@gmail.com).
 
-<div align="center">
-    <img alt="Natnael-Dev Trophies" src="https://github-profile-trophy.vercel.app/?username=Natnael-Dev&column=5&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true" width="100%" />
-</div>
+[natnaeltezazu.pro.et](https://natnaeltezazu.pro.et) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/natnael-tezazu) &nbsp; / &nbsp; [GitHub](https://github.com/Natnael-Dev)
 
-<br>
-
-<div align="center">
-    <img alt="Natnael-Dev Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Natnael-Dev&bg_color=090D16&title_color=60A5FA&color=60A5FA&line=60A5FA&point=FFFFFF&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natnael-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=60A5FA&text_color=c9d1d9" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Natnael-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=60A5FA&icon_color=60A5FA&text_color=c9d1d9" />
-</div>
-</details>
-
-
-
+<sub>Built in Addis Ababa. Thinking beyond the demo.</sub>
