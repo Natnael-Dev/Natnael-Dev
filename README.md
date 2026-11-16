@@ -16,61 +16,99 @@
 
 ---
 
-### Hey, I’m Natnael.
+### hey, i’m natnael.
 
-I like taking strange ideas and finding out if I can make them work. Sometimes that means an app. Sometimes it’s a tool that saves someone a few hours. Sometimes it turns into a much bigger project than I expected.
-
-I work across web, mobile, and AI. I care about the boring parts too: keeping data safe, handling mistakes, and making sure things still work when the internet doesn’t.
+i make apps, tools, and whatever idea won’t leave my head. mostly web, mobile, and AI. still learning, usually building something.
 
 <p><img src="assets/workshop-world.webp" width="100%" alt="An ASCII-style workshop in the mountains: astronauts coding, growing a plant, floating near a star, and resting on a moon; a helpful robot, a layered handheld computer, and a solar-powered field station."></p>
 
 ### A few things I’ve built
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Natnael-Dev/teragrant-agent"><img src="assets/teragrant.webp" width="100%" alt="TeraGrant multimodal grant-intake system — portfolio preview"></a>
-      <h3><a href="https://github.com/Natnael-Dev/teragrant-agent">TeraGrant</a></h3>
-      <p>Helps small businesses turn voice notes and documents into grant applications. Keeps track of where facts came from and flags missing or conflicting details.</p>
-      <p><sub>Python · FastAPI · Gemini · SQLite audit trail</sub></p>
-      <p><a href="https://github.com/Natnael-Dev/teragrant-agent">See how it works</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Natnael-Dev/AgentHelm"><img src="assets/agenthelm.webp" width="100%" alt="AgentHelm mission-control interface — portfolio preview"></a>
-      <h3><a href="https://github.com/Natnael-Dev/AgentHelm">AgentHelm</a></h3>
-      <p>A control room for AI coding agents. See what they’re doing, keep their work separate, and check commands before they run.</p>
-      <p><sub>AI runtimes · Git worktrees · WebSockets</sub></p>
-      <p><a href="https://github.com/Natnael-Dev/AgentHelm">See the code</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Natnael-Dev/SignalIntel"><img src="assets/signalintel.webp" width="100%" alt="SignalIntel broadcast-intelligence dashboard — portfolio preview"></a>
-      <h3><a href="https://github.com/Natnael-Dev/SignalIntel">SignalIntel</a></h3>
-      <p>Follows live broadcasts, turns speech and on-screen text into searchable notes, and sends alerts when something matters.</p>
-      <p><sub>Python · Rust · Whisper · Qdrant</sub></p>
-      <p><a href="https://github.com/Natnael-Dev/SignalIntel">See the code</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Natnael-Dev/ghostreply"><img src="assets/ghostreply.svg" width="100%" alt="GhostReply flow: messages become draft replies, with uncertain replies held for owner approval"></a>
-      <h3><a href="https://github.com/Natnael-Dev/ghostreply">GhostReply</a></h3>
-      <p>A personal reply agent for when messages pile up. Helps draft replies and holds anything uncertain for me to approve.</p>
-      <p><sub>Python · FastAPI · Node.js · Human approval</sub></p>
-      <p><sub>Pre-alpha · WhatsApp bridge working; Telegram in progress.</sub></p>
-      <p><a href="https://github.com/Natnael-Dev/ghostreply">See the code</a></p>
-    </td>
-  </tr>
-</table>
+#### [TeraGrant](https://github.com/Natnael-Dev/teragrant-agent)
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/project-teragrant-still.svg">
+  <img src="assets/project-teragrant.svg" width="100%" alt="TeraGrant: illustrated workflow, with a moving signal between steps.">
+</picture>
+
+Helps small businesses turn voice notes and documents into grant applications. Keeps track of where facts came from and flags missing or conflicting details.
+
+<sub>Python · FastAPI · Gemini · SQLite</sub>
+
+[See the code](https://github.com/Natnael-Dev/teragrant-agent)
+
+<details>
+<summary>Take a look inside</summary>
+<p><img src="assets/teragrant.webp" width="100%" alt="TeraGrant portfolio preview"></p>
+</details>
+
+---
+
+#### [AgentHelm](https://github.com/Natnael-Dev/AgentHelm)
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/project-agenthelm-still.svg">
+  <img src="assets/project-agenthelm.svg" width="100%" alt="AgentHelm: illustrated workflow, with a moving signal between steps.">
+</picture>
+
+A control room for AI coding agents. See what they’re doing, keep their work separate, and check commands before they run.
+
+<sub>AI runtimes · Git worktrees · WebSockets</sub>
+
+[See the code](https://github.com/Natnael-Dev/AgentHelm)
+
+<details>
+<summary>Take a look inside</summary>
+<p><img src="assets/agenthelm.webp" width="100%" alt="AgentHelm portfolio preview"></p>
+</details>
+
+---
+
+#### [SignalIntel](https://github.com/Natnael-Dev/SignalIntel)
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/project-signalintel-still.svg">
+  <img src="assets/project-signalintel.svg" width="100%" alt="SignalIntel: illustrated workflow, with a moving signal between steps.">
+</picture>
+
+Follows live broadcasts, turns speech and on-screen text into searchable notes, and sends alerts when something matters.
+
+<sub>Python · Rust · Whisper · Qdrant</sub>
+
+[See the code](https://github.com/Natnael-Dev/SignalIntel)
+
+<details>
+<summary>Take a look inside</summary>
+<p><img src="assets/signalintel.webp" width="100%" alt="SignalIntel portfolio preview"></p>
+</details>
+
+---
+
+#### [GhostReply](https://github.com/Natnael-Dev/ghostreply)
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/project-ghostreply-still.svg">
+  <img src="assets/project-ghostreply.svg" width="100%" alt="GhostReply: illustrated workflow, with a moving signal between steps.">
+</picture>
+
+A personal reply agent for when messages pile up. Helps draft replies and holds anything uncertain for me to approve.
+
+<sub>Python · FastAPI · Node.js · Human approval</sub>
+
+[See the code](https://github.com/Natnael-Dev/ghostreply)
+
+<sub>Pre-alpha · WhatsApp bridge working; Telegram in progress.</sub>
+
 
 ### What I work with
 
-| For | My usual tools |
+| What I’m making | What I reach for |
 | :--- | :--- |
-| Web apps | TypeScript, React, Next.js, Tailwind CSS |
-| Backends & tools | Python, Node.js, Rust |
-| Data | PostgreSQL, SQLite, Redis |
-| AI projects | Speech models, OCR, vector search |
-| Mobile & offline apps | Kotlin, Compose, Flutter |
+| **Web** · screens & interfaces | TypeScript / React / Next.js |
+| **Systems** · tools & backends | Python / Node.js / Rust |
+| **Data** · storage & sync | PostgreSQL / SQLite / Redis |
+| **AI** · making sense of things | Speech / OCR / Vector search |
+| **Mobile** · works offline too | Kotlin / Compose / Flutter |
 
 ### Outside these repos
 

@@ -71,3 +71,12 @@ The maker mark is now a small native ASCII robot floating among stars.
 GhostReply replaces CraftHub in the showcase. Its public README identifies
 it as pre-alpha, with WhatsApp working and Telegram in progress; this status
 is reflected in the card. Intro wording is awaiting the owner’s selection.
+
+## Project layout and motion
+
+The approved Quiet intro is now used verbatim. Projects have full-width
+workflow covers, concise text, and expandable portfolio previews, replacing
+the cramped two-column project table. Covers are illustrative flows, not
+live telemetry. Each has a static reduced-motion companion. The small robot
+floats gently and stops under reduced motion. The skills table uses short
+category labels. Rebuild covers with `python scripts/build-project-covers.py`.

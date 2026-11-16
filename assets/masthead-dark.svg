@@ -4,7 +4,8 @@
   <path d="M2 18h36" stroke="#d6ac69" stroke-width="3"/>
   <text x="0" y="109" font-family="Arial, Helvetica, sans-serif" font-size="82" letter-spacing="-3" fill="#eee9df">Natnael Tezazu.</text>
   <text x="3" y="156" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="400" fill="#c4b8a5">A little curious. Always building.</text>
-  <g aria-label="Little ASCII robot floating in space" font-family="monospace" font-size="16" text-anchor="middle" fill="#c4b8a5">
+  <style>.robot{animation:float 6s ease-in-out infinite}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}@media(prefers-reduced-motion:reduce){.robot{animation:none}}</style>
+  <g class="robot" aria-label="Little ASCII robot floating in space" font-family="monospace" font-size="16" text-anchor="middle" fill="#c4b8a5">
     <text x="912" y="46">+</text><text x="978" y="76">·</text>
     <text x="924" y="137">·</text><text x="985" y="127">+</text>
     <g transform="rotate(-12 948 88)">
