@@ -52,11 +52,12 @@ I work across web, mobile, and AI. I care about the boring parts too: keeping da
       <p><a href="https://github.com/Natnael-Dev/SignalIntel">See the code</a></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Natnael-Dev/crafthub-marketplace"><img src="assets/crafthub.svg" width="100%" alt="CraftHub architecture: vendor isolation, financial ledger, and event outbox"></a>
-      <h3><a href="https://github.com/Natnael-Dev/crafthub-marketplace">CraftHub</a></h3>
-      <p>A marketplace for multiple sellers. Keeps each shop’s data separate and handles stock, orders, and payments without mixing things up.</p>
-      <p><sub>Next.js · TypeScript · PostgreSQL · Drizzle</sub></p>
-      <p><a href="https://github.com/Natnael-Dev/crafthub-marketplace">See the code</a></p>
+      <a href="https://github.com/Natnael-Dev/ghostreply"><img src="assets/ghostreply.svg" width="100%" alt="GhostReply flow: messages become draft replies, with uncertain replies held for owner approval"></a>
+      <h3><a href="https://github.com/Natnael-Dev/ghostreply">GhostReply</a></h3>
+      <p>A personal reply agent for when messages pile up. Helps draft replies and holds anything uncertain for me to approve.</p>
+      <p><sub>Python · FastAPI · Node.js · Human approval</sub></p>
+      <p><sub>Pre-alpha · WhatsApp bridge working; Telegram in progress.</sub></p>
+      <p><a href="https://github.com/Natnael-Dev/ghostreply">See the code</a></p>
     </td>
   </tr>
 </table>

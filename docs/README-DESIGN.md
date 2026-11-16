@@ -19,7 +19,7 @@ GitHub controls page typography and layout; this is a README, not a webpage.
 - Public profile: https://github.com/Natnael-Dev
 - Live portfolio: https://natnaeltezazu.pro.et
 - Public descriptions and READMEs for NatyMD-web, AgentHelm, SignalIntel,
-  crafthub-marketplace, and teragrant-agent.
+  crafthub-marketplace, ghostreply, and teragrant-agent.
 - DailyRead's public description identifies it as an offline-first Android
   reading-habit app for PDF and EPUB; no README was available at lookup time.
 - Contact details come from the portfolio, not the obsolete profile README.
@@ -64,3 +64,10 @@ git commit -m "docs(profile): restore original README"
 
 This preserves history and leaves other work alone. Do not force-push or
 rewrite history to undo the redesign.
+
+## Latest selection
+
+The maker mark is now a small native ASCII robot floating among stars.
+GhostReply replaces CraftHub in the showcase. Its public README identifies
+it as pre-alpha, with WhatsApp working and Telegram in progress; this status
+is reflected in the card. Intro wording is awaiting the owner’s selection.
