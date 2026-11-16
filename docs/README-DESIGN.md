@@ -2,9 +2,11 @@
 
 ## Direction
 
-Renaissance Workshop artwork with Digital Museum restraint: engraved hands,
-an editorial masthead, a small maker's mark, readable native Markdown, and
-real projects. No remote badges, invented statistics, or typing services.
+ASCII hands with pixel, point-cloud, and wireframe details. A supporting moon
+workshop combines the coding astronaut, drifter, grower, dreamer, CRT desk,
+helpful robot, exploded device, and mountain field station into one scene.
+The name uses plain sans-serif type; the body uses short, conversational English.
+Project facts and the substantial four-project showcase are retained.
 
 The hands load fully formed, nearly touching with a small visible gap. The
 animation only breathes gently in luminance; it never closes the gap. The
@@ -31,7 +33,7 @@ No benchmark, contribution count, or completion claim is reproduced here.
 
 ## Assets
 
-The engraving is an original generated interpretation of the classical
+The ASCII-style artwork is an original interpretation of the classical
 reaching-hands composition. `assets/creation-of-adam.webp` is the saved source.
 The mastheads are editable SVG, with no scripts, embedded fonts, or network
 dependencies. The README keeps descriptions and links as accessible text.
