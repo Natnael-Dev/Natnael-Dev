@@ -20,7 +20,10 @@
 
 i make apps, tools, and whatever idea won’t leave my head. mostly web, mobile, and AI. still learning, usually building something.
 
-<p><img src="assets/workshop-world.webp" width="100%" alt="An ASCII-style workshop in the mountains: astronauts coding, growing a plant, floating near a star, and resting on a moon; a helpful robot, a layered handheld computer, and a solar-powered field station."></p>
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/workshop-world.webp">
+  <img src="assets/workshop-world-animated.svg" width="100%" alt="An ASCII workshop in the mountains, with astronauts, a helpful robot, a field station, and gently twinkling stars.">
+</picture>
 
 ### A few things I’ve built
 
@@ -117,6 +120,11 @@ I also co-founded **Ethiosk**, a research and survey project, and helped build s
 [A bit more about me](https://natnaeltezazu.pro.et/#about)
 
 ---
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/astronaut.webp">
+  <img src="assets/astronaut-floating.svg" width="96" height="112" alt="A small astronaut floating and waving goodbye.">
+</picture>
 
 ### Let’s build something useful.
 

@@ -32,7 +32,7 @@ if (stream['width'], stream['height'], int(stream['nb_frames'])) != (960, 320, 3
     raise SystemExit(f'Unexpected hero encoding: {stream}')
 
 asset_bytes = sum(path.stat().st_size for path in (root / 'assets').iterdir())
-if asset_bytes >= 900_000:
+if asset_bytes >= 1_500_000:
     raise SystemExit(f'Asset budget exceeded: {asset_bytes}')
 for obsolete in ['example.com', 'healthcare', 'reciprocal']:
     if obsolete in readme.lower():

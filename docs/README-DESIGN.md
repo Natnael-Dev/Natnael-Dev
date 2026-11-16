@@ -85,3 +85,12 @@ The small header mark now uses `assets/astronaut.webp`, a transparent
 ASCII-textured astronaut illustration, replacing the typed robot. It is
 embedded in both mastheads so GitHub does not need nested file requests.
 The motion preview uses the same astronaut at the header and footer.
+
+## Applied motion selection
+
+H1 soft luminance breath, R1 floating astronaut, W1 workshop star twinkle,
+P1 traveling workflow signals, and F1 astronaut sign-off. Intro, separators,
+and skills stay still. Workshop and footer use embedded local artwork in
+self-contained SVGs, with static reduced-motion image sources. The footer
+astronaut has a raised hand and gently rocks as it floats. All motion is
+decorative; nothing implies live system status.
