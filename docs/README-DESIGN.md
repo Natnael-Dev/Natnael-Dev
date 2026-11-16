@@ -80,3 +80,8 @@ the cramped two-column project table. Covers are illustrative flows, not
 live telemetry. Each has a static reduced-motion companion. The small robot
 floats gently and stops under reduced motion. The skills table uses short
 category labels. Rebuild covers with `python scripts/build-project-covers.py`.
+
+The small header mark now uses `assets/astronaut.webp`, a transparent
+ASCII-textured astronaut illustration, replacing the typed robot. It is
+embedded in both mastheads so GitHub does not need nested file requests.
+The motion preview uses the same astronaut at the header and footer.
